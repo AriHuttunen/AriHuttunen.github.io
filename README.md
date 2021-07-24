@@ -1,6 +1,9 @@
 ## Ari's Blog
 
-The Atom feed for Julia is at http://localhost:4000/feed/by_tag/Julia.xml
+The Atom feed for Julia is at http://localhost:4000/feed/by_tag/Julia.xml locally.
+
+The published Atom feed for Julia is at [Atom feed]().
+
 
 
 ## Minimal Mistakes remote theme starter
