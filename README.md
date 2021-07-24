@@ -1,4 +1,9 @@
-# Minimal Mistakes remote theme starter
+## Ari's Blog
+
+The Atom feed for Julia is at http://localhost:4000/feed/by_tag/Julia.xml
+
+
+## Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
