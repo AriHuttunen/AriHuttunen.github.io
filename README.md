@@ -1,4 +1,5 @@
 # README for Ari's blog
 
-lorem ipsum
+This blog is created with Franklin and Julia.
+
 
